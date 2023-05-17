@@ -6,7 +6,6 @@
 
 Welcome to the Simon Game repository. This is a simple and fun memory game built with HTML, CSS, and jQuery. The game generates a series of lights and requires the player to repeat the sequence. If the player succeeds, the series becomes progressively longer and more complex. Once the player fails, the game is over.
 
-![Game Screenshot](./screenshot.png)
 
 ## Game Files
 
